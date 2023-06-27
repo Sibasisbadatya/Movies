@@ -4,7 +4,7 @@ import Herosection from './components/HeroSection'
 const page = () => {
   return (
     <>
-   <Herosection title={"Let's wathch movie together"} imageUrl={"/image.jpg"} />
+   <Herosection title={"Let's watch movie together"} imageUrl={"/image.jpg"} />
     </>
   )
 }
