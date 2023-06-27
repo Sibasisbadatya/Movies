@@ -4,7 +4,7 @@ import Herosection from '../components/HeroSection'
 const about = () => {
   return (
     <>
-    <Herosection title={"SIBASIS BADATYA"} />
+    <Herosection title={"Let's watch movie together"} />
     </>
   )
 }
